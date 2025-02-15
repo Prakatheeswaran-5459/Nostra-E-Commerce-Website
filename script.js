@@ -65,9 +65,6 @@ function(){
 }
 )
 
-// Add event listeners
-rightButton.addEventListener("click", nextSlide);
-leftButton.addEventListener("click", prevSlide);
 
 var likebuttons = document.querySelectorAll(".like-button");
 
